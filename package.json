@@ -1,0 +1,14 @@
+{
+  "name": "2026-1--study-practical-scientific-writing",
+  "version": "1.0.0",
+  "description": "paw",
+  "main": "index.js",
+  "repository": "git@github.com:SavchenkoL/2026-1--study-mathsec.git",
+  "author": "SavchenkoL <elizaveta.sawchenko@gmail.com>",
+  "license": "CC-BY-4.0",
+    "config": {
+	"commitizen": {
+	    "path": "cz-conventional-changelog"
+	}
+    }
+}
