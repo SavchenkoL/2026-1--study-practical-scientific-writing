@@ -6,9 +6,12 @@
   "repository": "git@github.com:SavchenkoL/2026-1--study-mathsec.git",
   "author": "SavchenkoL <elizaveta.sawchenko@gmail.com>",
   "license": "CC-BY-4.0",
-    "config": {
-	"commitizen": {
-	    "path": "cz-conventional-changelog"
-	}
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
     }
+  },
+  "devDependencies": {
+    "standard-changelog": "^7.0.1"
+  }
 }
