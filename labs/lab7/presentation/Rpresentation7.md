@@ -28,20 +28,20 @@ header-includes:
 
 ## Класс документа beamer
 
-![71.jpg](../../../../../Documents/GitHub/2026-1--study-practical-scientific-writing/labs/lab7/presentation/image/71.jpg)
+![71.jpg](image/71.jpg)
 
 ## Слайд
 
-![72.jpg](../../../../../Documents/GitHub/2026-1--study-practical-scientific-writing/labs/lab7/presentation/image/72.jpg)
+![72.jpg](image/72.jpg)
 
 ## Команда pause
 ## Команда uncover
 
-![73.jpg](../../../../../Documents/GitHub/2026-1--study-practical-scientific-writing/labs/lab7/presentation/image/73.jpg)
+![73.jpg](image/73.jpg)
 
 ## Постер
 
-![74.jpg](../../../../../Documents/GitHub/2026-1--study-practical-scientific-writing/labs/lab7/presentation/image/74.jpg)
+![74.jpg](image/74.jpg)
 
 
 ## Выводы
