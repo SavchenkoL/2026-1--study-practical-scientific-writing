@@ -77,24 +77,24 @@ header-includes:
  
 В LaTeX можно создавать презентации с помощью класса документа beamer. Чтобы создать слайды, можно использовать среду frame с заголовком слайда в качестве единственного аргумента. (рис. [-@fig:001] ) 
 
-![71.jpg](../../../../../Documents/GitHub/2026-1--study-practical-scientific-writing/labs/lab7/report/image/71.jpg)
+![71.jpg](image/71.jpg)
  
 Упорядочим информацию в презентации. (рис. [-@fig:002] ) 
 
-![72.jpg](../../../../../Documents/GitHub/2026-1--study-practical-scientific-writing/labs/lab7/report/image/72.jpg)
+![72.jpg](image/72.jpg)
 
 Чтобы элементы слайда появлялись один за другим, используем pause.  (рис. [-@fig:003] ) 
 
 
 Мы так же можем использовать это в перечислении (рис. [-@fig:004] ) 
 
-![73.jpg](../../../../../Documents/GitHub/2026-1--study-practical-scientific-writing/labs/lab7/report/image/73.jpg)
+![73.jpg](image/73.jpg)
 
 С помощью команды uncover можно точно определить, когда будет отображаться каждая часть слайда. Эта команда более гибкая, чем команда pause. Ниже приведен пример использования команды uncover (рис. [-@fig:005] )
 
 Продемонстрируем один из способов переноса общей структуры плаката в LaTeX. (рис. [-@fig:006] ) 
 
-![74.jpg](../../../../../Documents/GitHub/2026-1--study-practical-scientific-writing/labs/lab7/report/image/74.jpg)
+![74.jpg](image/74.jpg)
 
 Программы работают верно. 
 
